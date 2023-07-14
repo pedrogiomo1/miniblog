@@ -1,3 +1,8 @@
+# About
+
+This project was developed using React + Firebase, and it's up on vercels server.
+### You can see that project working here: <https://miniblog-sigma-three.vercel.app/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
